@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henry112q
 - 👀 I’m interested in learining as many langauges as possible
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me (you cant at this moment in time)
 
