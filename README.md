@@ -1,1 +1,1 @@
-I will start to update all ny repos to public just need to check for any risky data as well as i am updating everything to CC0. Will commence work by Mon 15th april with the ending goal being Mon 13th may. other changes may happen soon will be displayed here.
+
